@@ -22,7 +22,7 @@ django-admin startproject sitename
 <br><br>
 --initialize application dir org <br>
 cd sitename <br>
-python manage.py startapp polls <br>
+python manage.py startapp appname <br>
 
 </p>
 
