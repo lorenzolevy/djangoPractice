@@ -11,18 +11,18 @@
 </h2>
 
 <p align="center">
-mkvirtualenv envname
+mkvirtualenv envname <br>
 workon envname (to re-init)
 <br>
--- install django onto virtualenv
+-- install django onto virtualenv <br>
 py -m pip install Django
 <br>
---website project starter
+--website project starter <br>
 django-admin startproject sitename
 <br>
---initialize application dir org
-cd sitename
-python manage.py startapp polls
+--initialize application dir org <br>
+cd sitename <br>
+python manage.py startapp polls <br>
 
 </p>
 
