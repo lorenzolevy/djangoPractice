@@ -13,13 +13,13 @@
 <p align="center">
 mkvirtualenv envname <br>
 workon envname (to re-init)
-<br>
+<br><br>
 -- install django onto virtualenv <br>
 py -m pip install Django
-<br>
+<br><br>
 --website project starter <br>
 django-admin startproject sitename
-<br>
+<br><br>
 --initialize application dir org <br>
 cd sitename <br>
 python manage.py startapp polls <br>
